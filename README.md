@@ -11,7 +11,7 @@ Then, activate the environment.
 ```
 conda activate py37v
 ```
-3. 
+3. Install openCV and numpy.
 ```
 pip install opencv-python numpy
 ```
